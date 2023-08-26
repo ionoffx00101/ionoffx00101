@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-485%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-491%20hrs%2010%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
@@ -90,5 +90,5 @@ C++                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ionoffx00101/ionoffx00101/main/assets/bar_graph.png)
 
 
- Last Updated on 25/08/2023 18:34:06 UTC
+ Last Updated on 26/08/2023 18:33:55 UTC
 <!--END_SECTION:waka-->
