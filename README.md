@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-496%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-502%20hrs%2028%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -59,17 +59,17 @@ Sunday                   15 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               28 hrs 13 mins      ████████████████████████░   97.03 % 
-HTML                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
-ActionScript 3           8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+TypeScript               27 hrs 55 mins      ████████████████████████░   97.48 % 
+HTML                     25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+ActionScript 3           8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 Text                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🔥 Editors: 
-WebStorm                 29 hrs 5 mins       █████████████████████████   100.00 % 
+WebStorm                 28 hrs 39 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      29 hrs 5 mins       █████████████████████████   100.00 % 
+Mac                      28 hrs 39 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -89,5 +89,5 @@ C++                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ionoffx00101/ionoffx00101/main/assets/bar_graph.png)
 
 
- Last Updated on 29/08/2023 18:34:25 UTC
+ Last Updated on 30/08/2023 18:34:33 UTC
 <!--END_SECTION:waka-->
